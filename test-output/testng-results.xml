@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="201" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+    <groups>
+    </groups>
+    <test name="Calculator Test" duration-ms="201" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+      <class name="core.MultiplyTest">
+        <test-method status="PASS" signature="Multiply_test_2_param()[pri:0, instance:core.MultiplyTest@7a3d45bd]" name="Multiply_test_2_param" duration-ms="18" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiply_test_2_param -->
+        <test-method status="PASS" signature="Multiply_test_3_param()[pri:0, instance:core.MultiplyTest@7a3d45bd]" name="Multiply_test_3_param" duration-ms="2" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiply_test_3_param -->
+        <test-method status="PASS" signature="Multiply_test_4_param()[pri:0, instance:core.MultiplyTest@7a3d45bd]" name="Multiply_test_4_param" duration-ms="3" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiply_test_4_param -->
+        <test-method status="PASS" signature="Multiply_test_instanceOf()[pri:0, instance:core.MultiplyTest@7a3d45bd]" name="Multiply_test_instanceOf" duration-ms="4" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiply_test_instanceOf -->
+      </class> <!-- core.MultiplyTest -->
+      <class name="core.DivideTest">
+        <test-method status="PASS" signature="Divide_test_2_param()[pri:0, instance:core.DivideTest@50d0686]" name="Divide_test_2_param" duration-ms="18" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Divide_test_2_param -->
+        <test-method status="PASS" signature="Divide_test_3_param()[pri:0, instance:core.DivideTest@50d0686]" name="Divide_test_3_param" duration-ms="0" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Divide_test_3_param -->
+        <test-method status="PASS" signature="Divide_test_4_param()[pri:0, instance:core.DivideTest@50d0686]" name="Divide_test_4_param" duration-ms="0" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Divide_test_4_param -->
+        <test-method status="PASS" signature="Divide_test_instanceOf()[pri:0, instance:core.DivideTest@50d0686]" name="Divide_test_instanceOf" duration-ms="0" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Divide_test_instanceOf -->
+      </class> <!-- core.DivideTest -->
+      <class name="core.AddTest">
+        <test-method status="PASS" signature="add_test_2_param()[pri:0, instance:core.AddTest@5ed828d]" name="add_test_2_param" duration-ms="16" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_test_2_param -->
+        <test-method status="PASS" signature="add_test_3_param()[pri:0, instance:core.AddTest@5ed828d]" name="add_test_3_param" duration-ms="16" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_test_3_param -->
+        <test-method status="PASS" signature="add_test_instanceOf()[pri:0, instance:core.AddTest@5ed828d]" name="add_test_instanceOf" duration-ms="15" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_test_instanceOf -->
+        <test-method status="PASS" signature="add_test_4_param()[pri:0, instance:core.AddTest@5ed828d]" name="add_test_4_param" duration-ms="0" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_test_4_param -->
+      </class> <!-- core.AddTest -->
+      <class name="core.SubtractTest">
+        <test-method status="PASS" signature="Subtract_test_2_param()[pri:0, instance:core.SubtractTest@1e7c7811]" name="Subtract_test_2_param" duration-ms="4" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtract_test_2_param -->
+        <test-method status="PASS" signature="Subtract_test_3_param()[pri:0, instance:core.SubtractTest@1e7c7811]" name="Subtract_test_3_param" duration-ms="2" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtract_test_3_param -->
+        <test-method status="PASS" signature="Subtract_test_4_param()[pri:0, instance:core.SubtractTest@1e7c7811]" name="Subtract_test_4_param" duration-ms="2" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtract_test_4_param -->
+        <test-method status="PASS" signature="Subtract_test_instanceOf()[pri:0, instance:core.SubtractTest@1e7c7811]" name="Subtract_test_instanceOf" duration-ms="6" started-at="2018-05-15T06:09:47Z" finished-at="2018-05-15T06:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtract_test_instanceOf -->
+      </class> <!-- core.SubtractTest -->
+    </test> <!-- Calculator Test -->
+  </suite> <!-- Suite -->
+</testng-results>
